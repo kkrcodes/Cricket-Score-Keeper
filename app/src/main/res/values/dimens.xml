@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="team_score">56sp</dimen>
+    <dimen name="button_margin">24dp</dimen>
+    <dimen name="button_margin_bottom">8dp</dimen>
+    <dimen name="overs">24sp</dimen>
+    <dimen name="team_name_padding">16dp</dimen>
+    <dimen name="team_text">14sp</dimen>
+</resources>

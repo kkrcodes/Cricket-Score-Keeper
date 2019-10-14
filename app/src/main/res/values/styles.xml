@@ -1,0 +1,51 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#FF9800</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">#00F0FF</item>
+        <!-- Background color of buttons in the app -->
+        <item name="colorButtonNormal">#FF9800</item>
+    </style>
+
+    <!-- Standard Button style -->
+    <style name="standardButton">
+        <item name="android:textAllCaps">true</item>
+        <item name="android:layout_marginLeft">@dimen/button_margin</item>
+        <item name="android:layout_marginRight">@dimen/button_margin</item>
+        <item name="android:layout_marginBottom">@dimen/button_margin_bottom</item>
+    </style>
+
+    <!-- Last Button style -->
+    <style name="lastButton">
+        <item name="android:textAllCaps">true</item>
+        <item name="android:layout_marginLeft">@dimen/button_margin</item>
+        <item name="android:layout_marginRight">@dimen/button_margin</item>
+    </style>
+
+    <!-- Overs info style -->
+    <style name="overs">
+        <item name="android:paddingBottom">@dimen/button_margin</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">@dimen/overs</item>
+        <item name="android:textColor">@android:color/darker_gray</item>
+    </style>
+
+    <!-- Score info style -->
+    <style name="score">
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">@dimen/team_score</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+
+    <!-- Team header style -->
+    <style name="teamHeader">
+        <item name="android:padding">@dimen/team_name_padding</item>
+        <item name="android:textSize">@dimen/team_text</item>
+        <item name="android:textColor">#616161</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+</resources>

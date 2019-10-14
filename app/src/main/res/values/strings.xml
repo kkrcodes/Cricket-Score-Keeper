@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Cricket Score Keeper</string>
+    <string name="initial_score" translatable="false">0/0</string>
+    <string name="initial_overs" translatable="false">0.0</string>
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+    <string name="score">%1$d/%2$d</string>
+    <string name="overs">%1$d.%2$d</string>
+    <string name="dot_ball">Dot Ball</string>
+    <string name="plus_one_run">+1 run</string>
+    <string name="plus_two_runs">+2 runs</string>
+    <string name="plus_three_runs">+3 runs</string>
+    <string name="plus_four_runs">+4 runs</string>
+    <string name="plus_six_runs">+6 runs</string>
+    <string name="wicket">wicket</string>
+    <string name="reset">reset</string>
+</resources>
