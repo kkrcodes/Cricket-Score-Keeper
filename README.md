@@ -1,7 +1,7 @@
 # Cricket-Score-Keeper
-Cricket Score Keeper Android App for <i> <a href="https://www.udacity.com/course/android-basics-user-input--ud836" title="Udacity's Android Basics: User Input"> Udacity's Android Basics: User Input</a></i> course.
+ Cricket Score Keeper Android App for <i> <a href="https://www.udacity.com/course/android-basics-user-input--ud836" title="Udacity's Android Basics: User Input"> Udacity's Android Basics: User Input</a></i> course.
 
-Android app to track the score of two teams in a cricket match. Allows the user to track the score ball-by-ball for each team and reset the scores for new matches. Handy for gully cricket matches to track scores easily.
+ Android app to track the score of two teams in a cricket match. Allows the user to track the score ball-by-ball for each team and reset the scores for new matches. Handy for gully cricket matches to track scores easily.
   
 Pre-requisites
 --------------
