@@ -20,3 +20,6 @@ This app uses the Gradle build system. To build this project, use the "gradlew b
 <img src="screenshots/Cricket Score Keeper.jpg" width="270" height="585" alt="App UI" title="App UI">
 <img src="screenshots/Cricket Score Keeper_score.jpg" width="270" height="585" alt="Score tracking" title="Score tracking">
 
+Attributions
+------------
+- App icon - [Freepik](https://www.flaticon.com/authors/freepik) from [Flaticon](https://www.flaticon.com)
